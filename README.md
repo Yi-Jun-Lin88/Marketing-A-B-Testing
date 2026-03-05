@@ -9,7 +9,7 @@
 - 語言：Python 3.10+
 - 數據處理：Pandas, NumPy
 - 統計分析：Scipy, Statsmodels (Z-test, Chi-square Test)
-- 視覺化：Matplotlib, Seaborn
+- 視覺化：Matplotlib, Seaborn, Power BI
 
 
 ## 📝 專案描述
